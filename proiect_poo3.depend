@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1716986719 source:c:\users\ionut\desktop\poo\proiect_poo3\main.cpp
+	<iostream>
+	<vector>
+	<cstring>
+	<map>
+	<set>
+	<list>
+	<typeinfo>
+	<stdexcept>
+
